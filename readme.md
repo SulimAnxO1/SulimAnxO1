@@ -30,10 +30,9 @@
 
 <br clear="all"/>
 
-<p float="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SulimAnxO1&theme=tokyonight" alt="streak" />
-  &nbsp;
-  <img src="https://activity-graph.herokuapp.com/graph?username=SulimAnxO1&theme=react-dark&area=true" alt="activity graph" />
+
 </p>
 
 ---
