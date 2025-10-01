@@ -23,7 +23,7 @@
 # 📊 GitHub Metrics
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SulimAnxO1&show_icons=true&theme=tokyonight&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SulimAnxO1&show_icons=true&theme=tokyonight&hide_rank=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulimAnxO1&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SulimAnxO1&theme=tokyonight" alt="streak" />
 </p>
