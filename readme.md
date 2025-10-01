@@ -1,12 +1,11 @@
 # Hi 👋, I'm Sulaiman Sufian
 
-💻 Open to opportunities | Web UI enthusiast
+Socials
 
-<p align="center">
-  <a href="https://github.com/SulimAnxO1"><img alt="GitHub followers" src="https://img.shields.io/github/followers/SulimAnxO1?label=Follow&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/suli-man-xo1/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Suli_mAn_x01"><img alt="X (Twitter)" src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/suli_man_x01/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/suli-man-xo1/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/Suli_mAn_x01"><img alt="X (Twitter)" src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.instagram.com/suli_man_x01/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
 </p>
 
 ---
