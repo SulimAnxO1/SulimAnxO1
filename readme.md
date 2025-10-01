@@ -47,21 +47,4 @@
 - **Currency Converter** — https://github.com/SulimAnxO1/Currency-Converter  
   _Currency Converter made using HTML CSS JavaScript — needs some improvements_
 
-> Tip: Pin these two repos on your GitHub profile (Profile → Customize profile → Pin repositories) to show them prominently.
-
----
-
-# 📈 Contributions
-
-<!-- last update: 0000000000 -->
-
----
-
-## Extras / How to improve this README further
-
-- Add screenshots or GIFs: create an `assets/` folder in the repo, upload images, and embed them under each project for a visual demo. Example:
-  ```md
-  ![Amazon clone screenshot](assets/amazon-home.png)
-  ```
-
 ---
