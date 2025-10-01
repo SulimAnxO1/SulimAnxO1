@@ -1,0 +1,34 @@
+name: Update README (daily)
+
+on:
+  schedule:
+    - cron: '0 0 * * *'    # runs daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README timestamp
+        run: |
+          python - <<'PY'
+          import re, time
+          f = 'README.md'
+          s = open(f, 'r', encoding='utf-8').read()
+          if '<!-- last update:' in s:
+              s = re.sub(r'<!-- last update:.*-->', f'<!-- last update: {int(time.time())} -->', s)
+          else:
+              s = s + "\n<!-- last update: {0} -->\n".format(int(time.time()))
+          open(f, 'w', encoding='utf-8').write(s)
+          print('README timestamp updated')
+          PY
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh README" || echo "no changes to commit"
+          git push
