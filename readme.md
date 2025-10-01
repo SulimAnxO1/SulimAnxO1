@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sulaiman Sufian
+# Hi!👋 I'm Sulaiman Sufian
 
 💻 Socials
 
